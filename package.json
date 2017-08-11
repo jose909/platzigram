@@ -1,0 +1,15 @@
+{
+  "name": "platzigram",
+  "version": "0.1.0",
+  "description": "Comparte tus fotos con el resto del mundo",
+  "main": "server.js",
+  "keywords": [
+    "platzi",
+    "javascript"
+  ],
+  "author": "jose",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
+}
